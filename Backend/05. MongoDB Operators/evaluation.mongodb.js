@@ -132,3 +132,12 @@ db.students.find({
 
 
 
+db.numbers.find({
+  value :{$mod : [2, 0]}
+})
+
+db.numbers.find({
+  value :{$mod : [2, 1]}
+})
+
+
