@@ -10,8 +10,8 @@ console.log("Date 3", date3);
 
 
 //  shortcut for this
-let oldDate = new Date(new Date().setFullYear( new Date().getFullYear() - 5))
-console.log("5 year old date from now : " , oldDate);
+let oldDate = new Date(new Date().setFullYear(new Date().getFullYear() - 5))
+console.log("5 year old date from now : ", oldDate);
 
 let moneyInPesa = 6999900
 let moneyInRupees = moneyInPesa / 100
