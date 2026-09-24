@@ -1,0 +1,202 @@
+[
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3051"
+    },
+    "FullName": "Champa Devi",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3052"
+    },
+    "FullName": "Chaman Lal",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3053"
+    },
+    "FullName": "Preeto",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3054"
+    },
+    "FullName": "Jitender",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3055"
+    },
+    "FullName": "Roop Lal",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3056"
+    },
+    "FullName": "Arit Soni",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3057"
+    },
+    "FullName": "Dhani Devi",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3058"
+    },
+    "FullName": "Ramesh",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3059"
+    },
+    "FullName": "Sunil Kumar",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e305a"
+    },
+    "FullName": "Chaman",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e305b"
+    },
+    "FullName": "Sahab Singh",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e305c"
+    },
+    "FullName": "Prithvi Raj",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e305d"
+    },
+    "FullName": "Hoshiyara",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e305e"
+    },
+    "FullName": "Rakesh Kumar",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e305f"
+    },
+    "FullName": "Gurdiyal",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3060"
+    },
+    "FullName": "Nand Lal",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3061"
+    },
+    "FullName": "Devo Devi",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3062"
+    },
+    "FullName": "Vipan Kumar",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3063"
+    },
+    "FullName": "Sonu",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  },
+  {
+    "_id": {
+      "$oid": "6ab515db876e62e1687e3064"
+    },
+    "FullName": "Dildar Ali",
+    "BatchStartDate": "22-06-2026",
+    "BatchEndDate": "31-07-2026",
+    "TrainerName": "DEESHU",
+    "CourseName": "Darzi - Advanced"
+  }
+]
