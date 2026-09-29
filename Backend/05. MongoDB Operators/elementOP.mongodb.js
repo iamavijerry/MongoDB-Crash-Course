@@ -12,17 +12,17 @@ use('mydb')
 // )
 
 
-// db.users3.find(
-//   {age : {$exists : true}}
-// )
+db.users3.find(
+  {age : {$exists : true}}
+)
 
-// db.users3.find(
-//   {name : {$exists : true}}
-// )
+db.users3.find(
+  {name : {$exists : true}}
+)
 
-// db.users3.find(
-//   {age : {$type : 'number'}}
-// )
+db.users3.find(
+  {age : {$type : 'number'}}
+)
 
 db.users3.find(
   {age : {$type : 'string'}}

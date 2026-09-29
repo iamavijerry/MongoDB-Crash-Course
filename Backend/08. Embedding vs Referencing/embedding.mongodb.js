@@ -54,24 +54,25 @@ db.students.updateMany(
 )
 
 //  Not a good way (Embedded Document)
-{
-  _id: ObjectId('6ab55d29095ecc731dabc125'),
-    name: 'Karan',
-      course: [
-        { _id: 101, name: 'BCA', duration: 12, price: 36000 },
-        { _id: 102, name: 'Digital Marketing', duration: 6, price: 12000 }
-      ],
-        isStudent: true
-},
-{
-  _id: ObjectId('6ab55d29095ecc731dabc126'),
-    name: 'Pooja',
-      course: [
-        { _id: 101, name: 'BCA', duration: 12, price: 36000 },
-        { _id: 102, name: 'Digital Marketing', duration: 6, price: 12000 }
-      ],
-        isStudent: true
-},
+// {
+//   _id: ObjectId('6ab55d29095ecc731dabc125'),
+//     name: 'Karan',
+//       course: [
+//         { _id: 101, name: 'BCA', duration: 12, price: 36000 },
+//         { _id: 102, name: 'Digital Marketing', duration: 6, price: 12000 }
+//       ],
+//         isStudent: true
+// },
+
+// {
+//   _id: ObjectId('6ab55d29095ecc731dabc126'),
+//     name: 'Pooja',
+//       course: [
+//         { _id: 101, name: 'BCA', duration: 12, price: 36000 },
+//         { _id: 102, name: 'Digital Marketing', duration: 6, price: 12000 }
+//       ],
+//         isStudent: true
+// },
 
 
 // created new collection
